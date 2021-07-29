@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @genezeiniss 
+👋 Hi, I’m @genezeiniss 
   
 
-  I'm an experienced back-end-oriented developer.
-  Although my educational background includes humanitarian disciplines, I discovered a passion for technology,
-  which led me to begin a high-tech career as an ISTQB certified QA tester, then advanced to development and software engineering.
-  I lead the Backend Guild, responsible for R&D training, technological advancement, conventions, and practices.
-  I also have a tech blog on Medium. And I'm a beginner at Public Speaking.
-  I'm a wine lover and a wanderlust (which is made worse by a pandemic. Fortunately, wine is consoling).
+I'm an experienced back-end-oriented developer.
+Although my educational background includes humanitarian disciplines, I discovered a passion for technology,
+which led me to begin a high-tech career as an ISTQB certified QA tester, then advanced to development and software engineering.
+I lead the Backend Guild, responsible for R&D training, technological advancement, conventions, and practices.
+I also have a tech blog on Medium. And I'm a beginner at Public Speaking.
+I'm a wine lover and a wanderlust (which is made worse by a pandemic. Fortunately, wine is consoling).
 
 
 - 🌱 I’m currently learning Kafka
