@@ -1,13 +1,31 @@
-👋 Hi, I’m @genezeiniss 
-  
-I'm an experienced back-end-oriented software engineer, wine lover, and a wanderlust (which is made worse by a pandemic. Fortunately, wine is consoling).
-Although my educational background includes humanitarian disciplines, I discovered a passion for technology, which led me to begin a high-tech career as an ISTQB-certified QA tester and then advanced to development and software engineering. 
-My professional experience includes a few years of Backend Guild leading, responsible for R&D training, technological advancement, conventions, and practices. 
-Currently, I'm part of the Sensitive Data Management team, Security R&D at Fintech company. I'm also volunteering as a Co-Manager of the Tech-Blogging Program, by Baot. I'm a tech blogger and public speaker.
+**Hi, I’m Gene!**
 
-- 📫 Follow me on social media (@genezeiniss at Medium, LinkedIn)
+A Backend Engineer specializing in **Java, Spring Boot, Microservices, and Latency-Sensitive Systems** for **FinTech and eCommerce** platforms.
 
-<!---
-genezeiniss/genezeiniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I bring **13+ years of experience in software development**, with a strong focus on **backend architecture, system scalability, and high-performance applications**.
+
+Let’s build something amazing together! 🚀
+
+**Find me on:** [LinkedIn](https://www.linkedin.com/in/genezeiniss/), [Medium Blog](https://medium.com/@genezeiniss), [Fiverr](https://www.fiverr.com/sellers/gene_zeiniss/), [Upwork](https://www.upwork.com/freelancers/~017adf252cb8e71786), [Codementor](https://www.codementor.io/@genezeiniss).
+
+---
+
+### **About Me**
+- **Experience:** 13+ years in software development, including **9 years in FinTech**.
+- **Tech Skills:** Java, Spring Boot, Microservices, Domain-Driven Design (DDD), Relational Databases (PostgreSQL, MySQL), Event-Driven Architecture, and API Development.
+- **Key Contributions:**
+  - Developed and led **mission-critical financial integrations** for large-scale platforms.
+  - Spearheaded **payment processing and credit services** architecture.
+  - Built **scalable backend solutions** for eCommerce platforms handling high transaction volumes.
+- **Beyond Tech:**
+  - **Mentorship & Leadership:** Code Mentor, Backend Guild Lead, Tech Speaker.
+  - **Blogging & Community:** Tech blogger, volunteered as Co-Manager of **Baot's Tech-Blogging Program**, guiding women in tech to publish their first technical blog.
+  - **Advocacy:** Led **Intuit Women’s Network ERG**, fostering professional growth for women in tech.
+
+---
+
+### **Services**
+✅ **Backend Development:** High-performance Java & Spring Boot applications.  
+✅ **Code Review & Optimization:** Enhancing code quality, maintainability, and efficiency.  
+✅ **Technical Consulting:** Helping teams design scalable architectures & improve system performance.  
+✅ **Mentorship & Coaching:** Supporting developers in mastering Java backend technologies.
