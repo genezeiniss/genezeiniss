@@ -6,7 +6,7 @@ I bring **13+ years of experience in software development**, with a strong focus
 
 Let’s build something amazing together! 🚀
 
-**Find me on:** [LinkedIn](https://www.linkedin.com/in/genezeiniss/), [Medium Blog](https://medium.com/@genezeiniss), [Fiverr](https://www.fiverr.com/sellers/gene_zeiniss/), [Upwork](https://www.upwork.com/freelancers/~017adf252cb8e71786), [Codementor](https://www.codementor.io/@genezeiniss).
+**Find me on:** [LinkedIn](https://www.linkedin.com/in/genezeiniss/), [Medium Blog](https://medium.com/@genezeiniss), [Fiverr](https://www.fiverr.com/s/WE8okLd), [Upwork](https://www.upwork.com/freelancers/~017adf252cb8e71786), [Codementor](https://www.codementor.io/@genezeiniss).
 
 ---
 
